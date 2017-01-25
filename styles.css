@@ -1,0 +1,22 @@
+.background {
+    background-color: #5F9EA0;
+}
+.card {
+    background: #ADD8E6;
+    padding: 30px;
+    box-shadow: 1px 1px 2px #e7e7e7;
+    border-radius: 4px;
+    margin: 20px 30px;
+}
+
+.row-background {
+    background-color: #00008B;
+}
+
+.outer-shell {
+    margin-top: 5em;
+}
+
+.dropdown-menu {
+    padding: 1em;
+}
